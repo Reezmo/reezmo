@@ -1,66 +1,20 @@
-# 👋 Hi, I'm Reamohetse Mphuthi
+# Hey there! 👋
 
-**Front-End Developer | React, Next.js, TypeScript | Node.js | SharePoint SPFx & Power Platform | UI/UX Enthusiast**
+I'm **Reamohetse Mphuti**, a front-end developer.
 
-I’m a developer passionate about building **modern web applications and enterprise solutions**.
-I enjoy creating clean user interfaces, improving user experience, and developing scalable solutions using modern web technologies.
+I build modern web apps and enterprise solutions using **React, Next.js, and TypeScript**, and I also develop solutions for **SharePoint (SPFx)** and the **Microsoft Power Platform**.
 
----
+My main stack: **React, Next.js, TypeScript, Tailwind CSS, Node.js**.
 
-## 👨‍💻 Who Am I?
+You'll find some of my favorite projects pinned below.
 
-I'm a **Front-End Developer** focused on building responsive and user-friendly web applications.
-I work with modern frameworks like **React and Next.js** and also develop **enterprise solutions with SharePoint Framework (SPFx) and Microsoft Power Platform**.
+If you'd like to connect or collaborate, feel free to reach out.
 
-I enjoy learning new technologies and building projects that solve real-world problems.
+### Fun facts
 
----
+* I enjoy building UI and improving user experiences
+* Interested in enterprise development with SharePoint & Power Platform
+* Always learning new technologies
 
-## 🚧 What I'm Currently Working On
-
-* Building modern **React / Next.js web applications**
-* Developing **SharePoint SPFx solutions**
-* Creating **automation and apps with Microsoft Power Platform**
-* Improving my **backend skills with Node.js**
-
----
-
-## 🛠️ Tools & Technologies I Use
-
-**Frontend**
-
-* React.js
-* Next.js
-* TypeScript
-* HTML5
-* Tailwind CSS
-
-**Backend**
-
-* Node.js
-* REST APIs
-
-**Microsoft Ecosystem**
-
-* SharePoint Framework (SPFx)
-* Power Apps
-* Power Automate
-
-**Tools**
-
-* Git
-* GitHub
-* VS Code
-* Figma
-
----
-
-## 📫 How to Reach Me
-
-* LinkedIn: https://www.linkedin.com/in/reamohetse-mphuthi-49720b232/
-* Email: [rnmphuti@gmail.com](mailto:rnmphuti@gmail.com)
-* GitHub: https://github.com/reezmo
-
----
-
-⭐ *Feel free to check out my repositories and connect with me!*
+📫 **Contact:**
+LinkedIn: https://www.linkedin.com/in/reamohetse-mphuthi-49720b232
